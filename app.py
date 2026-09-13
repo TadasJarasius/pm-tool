@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("BCG Project Manager Tool")
-st.write("If you can read this, your first app is running.")
+st.write("Deployed from London.")
 
 project = st.text_input("Project name")
 
